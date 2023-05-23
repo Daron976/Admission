@@ -97,27 +97,6 @@ Install this project with:
 - Extract the downloaded file locally
 - Once oponed up in a code editor run `npm install` to install all packages
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-- Survey form.
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
 ### Deployment
 
 You can deploy this project using:
